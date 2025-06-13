@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Example Post
-date: 2025-13-06 20:42:00 +0000
+date: 2025-06-12 20:42:00 +0000
 description: You’ll find this post in your `_posts` directory. Go ahead and copy it and re-deploy the site to see your changes. # Add post description (optional)
 img: # Add image post (optional)
 fig-caption: # Add figcaption (optional)
